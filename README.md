@@ -49,9 +49,11 @@ Provides extension methods, quality of life improvements and additional features
 ```
 <https://github.com/Ellpeck/MLEM>
 
+```
 ---------
 Animation
 ---------
+```
 
 - Spine
 ```
