@@ -4,7 +4,9 @@ Libraries for the #libraries channel in <https://discord.gg/monogame>.
 Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 
 ```
+-------
 General
+-------
 ```
 
 - MonoGame
