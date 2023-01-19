@@ -29,8 +29,7 @@ __***General***__
  <https://github.com/DeanReynolds/Dcrew.Spatial>  
 
 **-** Aether.Extras  
- `Content Importers for Voxels, Tilemaps, Atlas, DDS cubes, 3D models 
- and Shaders for FXAA, Deferred rendering, InfiniteGrid, Tilemap, etc.`  
+ `Content Importers for Voxels, Tilemaps, Atlas, DDS cubes, 3D models and Shaders for FXAA, Deferred rendering, InfiniteGrid, Tilemap, etc.`  
  <https://github.com/nkast/Aether.Extras>  
 
 **-** MLEM  
