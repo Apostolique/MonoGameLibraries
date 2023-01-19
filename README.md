@@ -29,8 +29,9 @@ __***General***__
  <https://github.com/DeanReynolds/Dcrew.Spatial>  
 
 **-** Aether.Extras  
- `MonoGame Content Importers, Shaders, etc`  
- <https://github.com/tainicom/Aether.Extras>  
+ `Content Importers for Voxels, Tilemaps, Atlas, DDS cubes, 3D models 
+ and Shaders for FXAA, Deferred rendering, InfiniteGrid, Tilemap, etc.`  
+ <https://github.com/nkast/Aether.Extras>  
 
 **-** MLEM  
  `Provides extension methods, quality of life improvements and additional features like a ui system and easy input handling.`  
@@ -47,7 +48,7 @@ __***Animation***__
 
 **-** Aether.Animation  
  `GPU & CPU Skinned animation for 3D models.`  
- <https://github.com/tainicom/Aether.Extras/tree/master/Animation>  
+ <https://github.com/nkast/Aether.Extras/tree/main/Animation>  
 
 **-** Apos.Tweens  
  `Tweening library for MonoGame.`  
