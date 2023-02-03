@@ -147,7 +147,7 @@ __***User Interface***__
 
 **-** FontStashSharp  
  `C# port of https://github.com/memononen/fontstash`  
- <https://github.com/rds1983/FontStashSharp>  
+ <https://github.com/FontStashSharp/FontStashSharp>  
 
 **-** SpriteFontPlus  
  `MonoGame/FNA Library that extends functionality of the SpriteFont.`  
