@@ -126,7 +126,7 @@ __***Physics***__
 ```
  
 ```
-__***Pipeline***__
+__***Content***__
 
 **-** NoPipeline  
  `Pipeline Tool addon which makes resource management seamless and hassle-free.`  
@@ -137,7 +137,7 @@ __***Pipeline***__
  <https://github.com/Ellpeck/Contentless>  
 
 **-** MonoGame.Aseprite  
- `Import Aseprite files directly though the contnet pipeline.`  
+ `A Cross Platform C# Library That Adds Support For Aseprite Files in MonoGame Projects.`  
  <https://github.com/manbeardgames/monogame-aseprite>  
 
 ```
