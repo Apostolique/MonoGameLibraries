@@ -138,7 +138,7 @@ __***Content***__
 
 **-** MonoGame.Aseprite  
  `A Cross Platform C# Library That Adds Support For Aseprite Files in MonoGame Projects.`  
- <https://github.com/manbeardgames/monogame-aseprite>  
+ <https://github.com/aristurtledev/monogame-aseprite>  
 
 ```
  
