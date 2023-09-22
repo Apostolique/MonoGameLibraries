@@ -84,6 +84,10 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 ```
 # Engine
 
+* **FlatRedBall**
+  * `The FlatRedBall Game Engine is designed to boost your productivity as a game developer, with a particular focus on building 2D games of any genre. It provides a powerful editor to help you organize your projects. At runtime, the FlatRedBall engine provides efficiency, stability, and features which have been refined for over two decades.`
+  * <https://github.com/vchelaru/FlatRedBall>
+
 * **Nez**
   * `A free 2D focused framework that works with MonoGame and FNA.`
   * <https://github.com/prime31/Nez>
