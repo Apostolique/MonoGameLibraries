@@ -176,3 +176,7 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 * **ImGui.NET**
   * `An ImGui wrapper for .NET.`
   * <https://github.com/mellinoe/ImGui.NET>
+
+* **Noesis "Native" renderer**
+  * `Native Monogame renderer for Noesis UI library.`
+  * <https://github.com/ManoxCZ/Noesis.Monogame>
