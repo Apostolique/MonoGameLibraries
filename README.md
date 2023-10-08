@@ -37,7 +37,7 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
   * <https://github.com/Ellpeck/MLEM>
   
 * **SRGEnt**
-  * `A small general purpose ECS library with a focus on simple API, ease of use and generating debuggable code by utilising Sorce Generators.`
+  * `A small general purpose ECS library with a focus on simple API, ease of use and generating debuggable code by utilising Source Generators.`
   * <https://github.com/ArcticFox-Dev/SRGEnt/>
   
 ```
