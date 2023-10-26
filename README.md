@@ -148,6 +148,10 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
   * `A Cross Platform C# Library That Adds Support For Aseprite Files in MonoGame Projects.`
   * <https://github.com/aristurtledev/monogame-aseprite>
 
+* **MonoGame.Reload**
+  * `A Hot-Reloader that reloads your assets while your MonoGame application is running.`
+  * <https://github.com/akaadream/MonoGame.Reload>
+
 ```
  
 ```
