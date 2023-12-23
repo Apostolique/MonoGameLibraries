@@ -40,6 +40,22 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
   * `A small general purpose ECS library with a focus on simple API, ease of use and generating debuggable code by utilising Source Generators.`
   * <https://github.com/ArcticFox-Dev/SRGEnt/>
   
+* **TiledLib.Net**
+  * `Cross-platform Tiled map parsing/writing utilities, includes content pipeline extension with a Tiled map importer`
+  * <https://github.com/Ragath/TiledLib.Net>
+  
+* **MonoGame.AssetInfo**
+  * `Extends MonoGame by letting the Content Pipeline process *.mgcb files to enable querying information about assets at runtime.`
+  * <https://github.com/Ragath/MonoGame.AssetInfo>
+  
+* **MonoGame.Spritesheet**
+  * `Everything you need to load and draw sprites from spritesheets in MonoGame. Includes content pipeline extensions for re-packing existing sheets, packing sheets from files and providing metadata for grid sheets`
+  * <https://github.com/Ragath/MonoGame.Spritesheet>
+  
+* **Bresenham.Net**
+  * `A platform agnostic implementation of the Bresenham family of algorithms, useful for drawing lines or iterating through positions along lines in a grid.`
+  * <https://github.com/Ragath/Bresenham.Net>
+  
 ```
  
 ```
