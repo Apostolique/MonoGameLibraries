@@ -173,6 +173,10 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 ```
 # User Interface
 
+* **Gum UI**
+  * `WYSIWYG UI editor and runtime with an incredibly powerful and flexible layout engine`
+  * <https://docs.flatredball.com/gum/>
+
 * **FontStashSharp**
   * `C# port of https://github.com/memononen/fontstash`
   * <https://github.com/FontStashSharp/FontStashSharp>
