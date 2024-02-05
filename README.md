@@ -147,6 +147,10 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
   * `A 2D collision detection system.`
   * <https://github.com/nkast/Aether.Physics2D>
 
+* **Jitterphysics2**
+  * `A 3D physics engine with a beginner-friendly api`
+  * <https://github.com/notgiven688/jitterphysics2>
+
 ```
  
 ```
