@@ -16,6 +16,10 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
   * `Desktop unique reimplementation of XNA 4.0.`
   * <https://github.com/FNA-XNA/FNA>
 
+* **KNI**
+  * `An open-source re-implementation of the XNA 4.0 Framework.`
+  * <https://github.com/kniEngine/kni>
+
 * **MonoGame.Extended**
   * `Extensions to make MonoGame more awesome.`
   * <https://github.com/craftworkgames/MonoGame.Extended>
