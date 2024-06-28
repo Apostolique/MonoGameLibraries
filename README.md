@@ -82,10 +82,6 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 ```
 # Audio
 
-* **FmodForFoxes**
-  * `Cross-platform C# FMOD wrapper.`
-  * <https://github.com/Martenfur/FmodForFoxes>
-
 * **MonoSound**
   * `An audio-processing library that allows for easy creation of SoundEffects without having to use the content pipeline, application of SoLoud sound filters to sounds and streaming from audio files.`
   * <https://github.com/absoluteAquarian/MonoSound>
@@ -115,10 +111,6 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 * **Nez**
   * `A free 2D focused framework that works with MonoGame and FNA.`
   * <https://github.com/prime31/Nez>
-
-* **Monofoxe**
-  * `A game engine greatly inspired by Game Maker. It makes game development in Monogame way easier and faster without removing low-level access to the framework.`
-  * <https://github.com/Martenfur/Monofoxe>
 
 ```
  
@@ -159,10 +151,6 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
  
 ```
 # Content
-
-* **NoPipeline**
-  * `Pipeline Tool addon which makes resource management seamless and hassle-free.`
-  * <https://github.com/gnFur/NoPipeline>
 
 * **Contentless**
   * `Automatically handles adding assets to the Content Pipeline project.`
