@@ -152,10 +152,6 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 ```
 # Content
 
-* **NoPipeline**
-  * `Pipeline Tool addon which makes resource management seamless and hassle-free.`
-  * <https://github.com/gnFur/NoPipeline>
-
 * **Contentless**
   * `Automatically handles adding assets to the Content Pipeline project.`
   * <https://github.com/Ellpeck/Contentless>
