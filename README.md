@@ -59,6 +59,10 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 * **Bresenham.Net**
   * `A platform agnostic implementation of the Bresenham family of algorithms, useful for drawing lines or iterating through positions along lines in a grid.`
   * <https://github.com/Ragath/Bresenham.Net>
+
+* **friflo ECS**
+  * `High performance 🔥 C# ECS with low memory footprint. Entity events, systems, entity-relationships, entity hierarchy, search, ...`
+  * <https://github.com/friflo/Friflo.Engine.ECS>
   
 ```
  
