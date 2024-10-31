@@ -208,3 +208,7 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 * **Noesis "Native" renderer**
   * `Native Monogame renderer for Noesis UI library.`
   * <https://github.com/ManoxCZ/Noesis.Monogame>
+
+* **MonoBrowser Core**
+  * `Markdown rendering engine inside your project.`
+  * <https://github.com/romanov/monobrowser>
