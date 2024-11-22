@@ -147,8 +147,12 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
   * `A 2D collision detection system.`
   * <https://github.com/nkast/Aether.Physics2D>
 
+* **JoltPhysicsSharp**
+  * `Cross platform modern .net9.0 and .net8.0 bindings for JoltPhysics using joltc.`
+  * <https://github.com/amerkoleci/JoltPhysicsSharp>
+
 * **Jitterphysics2**
-  * `A 3D physics engine with a beginner-friendly api`
+  * `A 3D physics engine with a beginner-friendly api.`
   * <https://github.com/notgiven688/jitterphysics2>
 
 ```
