@@ -26,7 +26,7 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 
   *  <https://github.com/craftworkgames/MonoGame.Extended>
  
-  * **Monogamer**
+* **Monogamer**
   * `WIP Monogame extension, adding a component system and much more!`
  
   * <https://github.com/gummyniki/Monogamer>
