@@ -175,6 +175,19 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 ```
  
 ```
+# Build Tools
+
+* **GameBundle**
+  * `A tool to package MonoGame and other .NET applications into several distributable formats.`
+  * <https://github.com/Ellpeck/GameBundle>
+
+* **MonoPack**
+  * `A dotnet tool that builds and packages MonoGame projects for Windows, macOS, and Linux.`
+  * <https://github.com/shyfox-studio/MonoPack>
+
+```
+ 
+```
 # User Interface
 
 * **Gum UI**
