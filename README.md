@@ -64,6 +64,9 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
   * `High performance 🔥 C# ECS with low memory footprint. Entity events, systems, entity-relationships, entity hierarchy, search, ...`
   * <https://github.com/friflo/Friflo.Engine.ECS>
   
+* **Frent**
+  * `A High Preformance C# ECS/ECF with component lifetime managment, events, and more.`
+  * <https://github.com/itsBuggingMe/Frent>
 ```
  
 ```
