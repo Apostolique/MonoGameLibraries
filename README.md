@@ -51,6 +51,10 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 * **MonoGame.AssetInfo**
   * `Extends MonoGame by letting the Content Pipeline process *.mgcb files to enable querying information about assets at runtime.`
   * <https://github.com/Ragath/MonoGame.AssetInfo>
+
+* **TexturePacker-MonoGameLoader**
+  * Loads and renders optimized sprite sheets from TexturePacker
+  * <https://github.com/CodeAndWeb/TexturePacker-MonoGameLoader>
   
 * **MonoGame.Spritesheet**
   * `Everything you need to load and draw sprites from spritesheets in MonoGame. Includes content pipeline extensions for re-packing existing sheets, packing sheets from files and providing metadata for grid sheets`
@@ -188,6 +192,10 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
   * `A dotnet tool that builds and packages MonoGame projects for Windows, macOS, and Linux.`
   * <https://github.com/shyfox-studio/MonoPack>
 
+* **TexturePacker**
+  * `Creates optimized sprite sheets for MonoGame. Can be included in the build process for automated sprite sheet packing.`
+  * <[https://codeandweb.com/texturepacker/monogame](https://www.codeandweb.com/texturepacker/monogame)>
+
 ```
  
 ```
@@ -232,3 +240,5 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 * **MonoBrowser Core**
   * `Markdown rendering engine inside your project.`
   * <https://github.com/romanov/monobrowser>
+
+```
