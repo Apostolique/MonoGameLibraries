@@ -194,7 +194,7 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 
 * **TexturePacker**
   * `Creates optimized sprite sheets for MonoGame. Can be included in the build process for automated sprite sheet packing.`
-  * [https://codeandweb.com/texturepacker/monogame](https://www.codeandweb.com/texturepacker/monogame)
+  * <https://codeandweb.com/texturepacker/monogame>
 
 ```
  
