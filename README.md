@@ -201,6 +201,10 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 ```
 # User Interface
 
+* **NanoUI**
+  * `Small, extendable and quite feature-rich C# UI & drawing library with no external dependencies, native libraries and no extra assets`
+  * <https://github.com/kbergius/NanoUI>
+
 * **Gum UI**
   * `WYSIWYG UI editor and runtime with an incredibly powerful and flexible layout engine`
   * <https://docs.flatredball.com/gum/>
